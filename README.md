@@ -15,11 +15,23 @@
 # Screenshots
 
 ![Screenshot (50)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/5c1abc94-f2b1-492a-968a-839b87023e94)
-![Screenshot (51)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/449bb380-dfdd-45e3-9513-fcbc496bbd95)![Screenshot (52)](https://github.com/jamezantony/Online-Iphone-Shopping-website-usi![Screenshot (57)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/2cd70f2c-fbbf-4203-88ac-689dbfb83137)
-ng-php-and-mysql/assets/96793324/875b3a52-32c8-42ec-bd81-9239f7bdeeb3)
-![Screenshot (53)](https://github.com/jamezantony/Online-Iphon![Screenshot (56)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/24451392-da86-4cfe-89e8-b056ba7b0bcf)
-e-Shopp![Screen![Screenshot (55)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/925212ab-2255-4069-87d2-13370d7136e7)
-shot (54)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/51bc1b29-c565-4422-a852-bf20548747cb)
-ing-website-using-php-and-mysql/assets/96793324/d7657e14-704a-48a8-8d4a-cdce7439086c)
+![Screenshot (51)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/449bb380-dfdd-45e3-9513-fcbc496bbd95)
+![Screenshot (52)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/b8258a71-996b-4f93-9bd7-90c29f4f15d6)
+![Screenshot (53)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/4ae9b14e-db8b-4ba4-a770-5f26a304d512)
+
+![Screenshot (54)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/8a28e8e9-a985-4030-814a-973dc9710414)
+![Screenshot (55)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/cbf4b309-cca0-4f71-bcf5-5605f55c3616)
+
+
+![Screenshot (56)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/57465aae-2f02-4cd7-9896-399a58ba92ab)
+
+
+
+![Screenshot (57)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/3c53d4c3-5e4c-433b-9266-9639ac9a82d6)
+
+
+# ADMIN PAGE
+![Screenshot (58)](https://github.com/jamezantony/Online-Iphone-Shopping-website-using-php-and-mysql/assets/96793324/e5ec15c7-74fc-450d-b311-5b0e434d8d45)
+
 
 
